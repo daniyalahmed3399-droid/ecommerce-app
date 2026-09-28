@@ -9,7 +9,7 @@ function Home() {
         <div className="hero-content">
 
           <p className="small-heading">
-            WELCOME TO SHOEASE
+            WELCOME TO SHOPEASE
           </p>
 
           <h1>
