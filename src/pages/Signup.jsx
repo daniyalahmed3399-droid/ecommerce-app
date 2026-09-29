@@ -71,7 +71,7 @@ function Signup() {
         <div className="auth-header">
 
           <p className="small-heading">
-            JOIN SHOPEASE
+            JOIN SHOP<span style={{ color: 'black' }}>EASE</span>
           </p>
 
           <h1>Create Account</h1>
