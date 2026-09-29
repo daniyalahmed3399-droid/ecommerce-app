@@ -71,7 +71,7 @@ function Signup() {
         <div className="auth-header">
 
           <p className="small-heading">
-            JOIN SHOEASE
+            JOIN SHOPEASE
           </p>
 
           <h1>Create Account</h1>
